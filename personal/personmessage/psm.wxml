@@ -5,7 +5,7 @@
 </view>
 <view class='headimage'>修改头像</view>
 </view>
-
+ 
 <view class='middle'>
 <view class='line l1'></view>
 <view class='message m1'>昵称
